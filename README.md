@@ -1,5 +1,7 @@
 # Microsoft.Data.Sqlite-dispose-bug
-Demonstrates a bug in Microsoft.Data.Sqlite v 6.0 rc1 onwards
+Demonstrates a bug in Microsoft.Data.Sqlite v 6.0 rc1 onwards.
+
+Reported here: https://github.com/dotnet/efcore/issues/26369
 
 
 ## Description
